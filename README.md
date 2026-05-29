@@ -18,10 +18,11 @@
 - **Búsqueda Dinámica:** Filtrado instantáneo de resultados por estado o texto.
 
 ### 🛠️ Cómo Utilizar
-1. **Carga de Datos:** Utilice el botón \Load Credentials\ para importar su lista \user:pass\.
-2. **Configuración:** Configure sus proxies en \Setup Proxies\ si requiere anonimato.
-3. **Ejecución:** Presione \Execute\. Puede pausar o reanudar el proceso en cualquier momento.
-4. **Análisis:** Revise los resultados en la tabla central y exporte los datos necesarios.
+1. **Descarga:** Obtenga la última versión desde la sección de [Releases](https://github.com/KONDORDEVSECURITYCORP/MultiPassWPF/releases).
+2. **Carga de Datos:** Utilice el botón \Load Credentials\ para importar su lista \user:pass\.
+3. **Configuración:** Configure sus proxies en \Setup Proxies\ si requiere anonimato.
+4. **Ejecución:** Presione \Execute\. Puede pausar o reanudar el proceso en cualquier momento.
+5. **Análisis:** Revise los resultados en la tabla central y exporte los datos necesarios.
 
 ---
 
@@ -37,10 +38,18 @@
 - **Dynamic Search:** Instant filtering of results by status or text.
 
 ### 🛠️ How to Use
-1. **Data Loading:** Use the \Load Credentials\ button to import your \user:pass\ list.
-2. **Configuration:** Set up your proxies in \Setup Proxies\ if anonymity is required.
-3. **Execution:** Press \Execute\. You can pause or resume the process at any time.
-4. **Analysis:** Review the results in the center table and export the necessary data.
+1. **Download:** Get the latest version from the [Releases](https://github.com/KONDORDEVSECURITYCORP/MultiPassWPF/releases) section.
+2. **Data Loading:** Use the \Load Credentials\ button to import your \user:pass\ list.
+3. **Configuration:** Set up your proxies in \Setup Proxies\ if anonymity is required.
+4. **Execution:** Press \Execute\. You can pause or resume the process at any time.
+5. **Analysis:** Review the results in the center table and export the necessary data.
+
+---
+
+## 📋 Requisitos / Requirements
+- **OS:** Windows 10/11 (64-bit)
+- **Runtime:** .NET 8.0 Runtime (Incluido en la versión standalone)
+- **Disk:** ~1.5GB de espacio libre (para la base de datos).
 
 ---
 
